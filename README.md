@@ -171,15 +171,15 @@ Users can filter the analysis by:
 5. **Column Chart** – Average Price by Make
 6. **Column Chart** – Average Price by Fuel Type
 
-![Page 1 KPIs](images/Page%201%20kpis.png)
+![Page 1 KPIs](Images/Page-1-kpis.png)
 
-![Page 1 Price Analysis](images/Page%201%20Price%20analysis.png)
+![Page 1 Price Analysis](Images/Page-1-Price-analysis.png)
 
 ---
 
 ## 🔎 2. Price & Performance Analysis
 
-![Price & Performance Analysis](images/Page%202%20overview.png)
+![Price & Performance Analysis](Images/Page-2-overview.png)
 
 The second page focuses on investigating relationships between automobile specifications and market price.
 
@@ -210,7 +210,7 @@ The second page focuses on investigating relationships between automobile specif
 
 The decomposition tree provides an interactive breakdown of **Average Price** according to vehicle characteristics such as engine-size category and body style.
 
-![Price Breakdown by Vehicle Characteristics](images/Page%202%20Price%20breakdown%20by%20vehicle%20characteristics.png)
+![Price Breakdown by Vehicle Characteristics](Images/Page-2-Price-breakdown-by-vehicle-characteristics.png)
 
 ---
 
@@ -220,9 +220,9 @@ The dashboard uses Power BI slicers to allow users to explore the dataset from d
 
 For example, the dashboard can be filtered by individual manufacturers or vehicle configurations to investigate how the overall analysis changes.
 
-![Honda Filtered Analysis](images/Filtered%20Page%201%20Analysis%20for%20Honda%20Make.png)
+![Honda Filtered Analysis](Images/Filtered-Page-Analysis-for-Honda.png)
 
-![Nissan FWD Filtered Analysis](images/Filtered%20Page%201%20Analysis%20for%20Nissan%20fwd.png)
+![Nissan FWD Filtered Analysis](Images/Filtered-Page-1-Analysis-For-Nissan-fwd.png)
 
 ---
 
