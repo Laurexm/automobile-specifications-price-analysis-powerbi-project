@@ -220,9 +220,9 @@ The dashboard uses Power BI slicers to allow users to explore the dataset from d
 
 For example, the dashboard can be filtered by individual manufacturers or vehicle configurations to investigate how the overall analysis changes.
 
-![Honda Filtered Analysis](Images/Filtered-Page-1-Analysis-for-Honda.png)
+![Honda Filtered Analysis](Images/Filtered-Page-1-Analysis-for-Honda-Make.png)
 
-![Nissan FWD Filtered Analysis](Images/Filtered-Page-2-Analysis-For-Nissan-fwd.png)
+![Nissan FWD Filtered Analysis](Images/Filtered-Page-2-Analysis-for-Nissan-fwd.png)
 
 ---
 
@@ -262,15 +262,6 @@ This project demonstrates the use of multiple Power BI capabilities:
 - Conditional formatting
 - Categorical data transformation
 
----
-
-# 🚀 How to Use
-
-1. Clone or download this repository.
-2. Open the `.pbix` file using **Power BI Desktop**.
-3. If required, update the dataset/file path in Power Query.
-4. Refresh the data.
-5. Explore both dashboard pages using the slicers and interactive visuals.
 
 ---
 
@@ -324,10 +315,8 @@ This project was developed as a **college Data Science / Business Intelligence p
 
 ## 👤 Author
 
-**Name:** `[YOUR NAME]`  
-**Roll Number:** `[YOUR ROLL NUMBER]`  
-**Course:** `[YOUR COURSE]`  
-**College:** `[YOUR COLLEGE NAME]`
+**Name:** `Zidane Raja A. Nadar`  
+**Roll Number:** `TDS2627034`  
 
 ---
 
