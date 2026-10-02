@@ -220,9 +220,9 @@ The dashboard uses Power BI slicers to allow users to explore the dataset from d
 
 For example, the dashboard can be filtered by individual manufacturers or vehicle configurations to investigate how the overall analysis changes.
 
-![Honda Filtered Analysis](Images/Filtered-Page-1-Analysis-for-Honda-Make.png)
+![Honda Filtered Analysis](Images/FIltered-Page-1-Analysis-for-Honda-Make.png)
 
-![Nissan FWD Filtered Analysis](Images/Filtered-Page-2-Analysis-for-Nissan-fwd.png)
+![Nissan FWD Filtered Analysis](Images/FIltered-Page-2-Analysis-for-Nissan-fwd.png)
 
 ---
 
