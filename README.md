@@ -10,11 +10,9 @@ The workflow covers the complete process from **data preprocessing and validatio
 
 ## 🎓 College Project
 
-**Student Name:** `[YOUR NAME]`  
-**Roll Number:** `[YOUR ROLL NUMBER]`  
-**Course / Department:** `[YOUR COURSE / DEPARTMENT]`  
-**College:** `[YOUR COLLEGE NAME]`  
-**Academic Year:** `[ACADEMIC YEAR]`
+**Student Name:** `Zidane Raja A. Nadar`  
+**Roll Number:** `TDS2627034`  
+
 
 ---
 
@@ -142,7 +140,7 @@ The dashboard consists of **two interactive pages**.
 
 ## 🧾 1. Automobile Overview
 
-![Automobile Overview](images/Page%201%20Overview.png)
+![Automobile Overview](Images/Page-1-overview.png)
 
 The first page provides a high-level overview of the automobile dataset, combining KPIs, relationship analysis, price comparisons, and interactive filtering.
 
